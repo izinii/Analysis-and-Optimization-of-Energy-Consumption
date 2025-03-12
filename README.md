@@ -1,4 +1,4 @@
-![](image_readme.png)
+![](image_readme2.png)
 
 # Analysis-and-Optimization-of-Energy-Consumption
 This project is part of the **Explainability AI** course. 
