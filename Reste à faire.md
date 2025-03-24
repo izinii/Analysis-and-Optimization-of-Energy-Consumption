@@ -8,7 +8,7 @@
 - *2- Modeling* : fini ???
 - *3- Model Evaluation and Optimization* : fini ???
 
-**- powerpoint of the oral presentation (PDF format)**: à fini
+**- powerpoint of the oral presentation (PDF format)**: à finir
 
 
 
