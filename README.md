@@ -14,3 +14,7 @@ Against a backdrop of energy transition and global warming, companies and organi
 - Kylie WU
 - Leina PRIEUR
 - Ilan ZINI
+
+
+## Link to our dashboard (PowerBI)
+https://app.powerbi.com/links/4K5zs9UYjm?ctid=88eebcae-d6e6-4ef7-bba4-4c34f4c2d5e0&pbi_source=linkShare 
